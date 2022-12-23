@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Challenge URL: [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
-- Live Site URL: [Site](https://interactive-rating-component-nott.netlify.app/)
+- Live Site URL: [Site](https://news-homepage-nott.netlify.app/)
 
 
 ### Built with
