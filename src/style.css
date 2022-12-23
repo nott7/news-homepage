@@ -69,6 +69,15 @@ body,
 .sidebar__btn {
   display: none;
   z-index: 2000;
+  right: 0.5rem;
+
+}
+
+.sidebar__btn.active {
+  position: fixed;
+  right: 1rem;
+  transition: none;
+
 }
 
 .sidebar_menu {
@@ -340,7 +349,6 @@ hr {
   }
 
   .sidebar__btn {
-    display: block;
     display: flex;
     justify-content: center;
     align-items: center;

@@ -7,7 +7,9 @@ export default function Header() {
 
 function toggleSidebar() {
   document.querySelector(".sidebar_menu").classList.toggle("active");
+  document.querySelector(".sidebar__btn").classList.toggle("active");
   document.querySelector(".backdrop").classList.toggle("active");
+
   if (document.querySelector(".sidebar_menu").classList.contains("active")) {
     document.querySelector(".sidebar__btn img").src = CloseBtn;
   } else {
