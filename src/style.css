@@ -412,7 +412,7 @@ hr {
 
 
   .card > img {
-    object-fit: contain;
+    height: initial;
   }
 }
 
